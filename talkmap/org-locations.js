@@ -1,6 +1,6 @@
 var addressPoints = [ 
   [
     "Beijing, China",
-    3100083
+    100083
   ]
 ]
