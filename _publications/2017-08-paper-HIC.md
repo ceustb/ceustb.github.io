@@ -4,7 +4,7 @@ title: "Discrete chaotic systems with one-line equilibria and their application 
 collection: publications
 permalink: /publication/2017-08-paper-HIC
 date: 2017-08
-paperurl: 'https://doi.org/10.1016/j.proeng.2016.07.493'
+%paperurl: 'https://doi.org/10.1016/j.proeng.2016.07.493'%
 citation: 'E Chen, Lequan Min, and Guanrong Chen. Discrete chaotic systems with one-line equilibria and their application to image encryption. International Journal of Bifurcation and Chaos. 2017, 27(03), 1750046.'
 ---
 
