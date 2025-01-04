@@ -7,11 +7,6 @@ Email: chene@ustb.edu.cn
 ## A short introduction
 研究方向：信息安全、密码学、区块链与智能合约、隐私计算
 
-PROFILE:
-* Highly self-motivated researcher with demonstrated research expertise modeling hydro-climatology processes. 
-* Strong interpersonal skills with a good sense of teamwork.
-* Programming Skills: R, C/C++, and Python in both Unix and Windows environments.
-* Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
 
 
 ## Selected Journal Publications
