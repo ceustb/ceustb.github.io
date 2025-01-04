@@ -1,8 +1,11 @@
-# Ze Jiang
-This is Ze Jiang's personal [homepage](https://zejiang-unsw.github.io/).
+#  Cecilia E Chen
+This is Cecilia E Chen's personal [homepage](https://ceustb.github.io/).
+Email: chene@ustb.edu.cn
+
+
 
 ## A short introduction
-I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and attribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works.
+研究方向：信息安全、密码学、区块链与智能合约、隐私计算
 
 PROFILE:
 * Highly self-motivated researcher with demonstrated research expertise modeling hydro-climatology processes. 
@@ -12,18 +15,21 @@ PROFILE:
 
 
 ## Selected Journal Publications
-Jiang, Z., & Johnson, F. (2023). "A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain." Monthly Weather Review. in press. https://doi.org/10.1175/MWR-D-22-0217.1
+2024
 
-Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. doi:https://doi.org/10.1016/J.JHYDROL.2021.126816
+[1]	Hai Lu, Yan Zhu, Cecilia E Chen, Rongquan Feng, Lejun Zhang, Di Ma. Efficient key generation on lattice cryptography for privacy protection in mobile IoT crowdsourcing[J]. IEEE Internet of Things Journal, 2024, 11(2): 1893-1909.（2024年1月）https://doi.org/10.1109/JIOT.2023.3328719
 
-Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 135, 104907. doi:https://doi.org/10.1016/j.envsoft.2020.104907
+[2]	范雨晴, 王迪, 林鸿杰, 陈娥, 何啸, 朱岩. 合同文本置标语言CTML：基于法律信息规范化提取的智能合约生成方法研究[J]. 工程科学学报, 2024, 46(1): 109-119.
 
-Jiang, Z., Sharma, A., & Johnson, F. (2020). Refining Predictor Spectral Representation Using Wavelet Theory for Improved Natural System Modeling. *Water Resources Research*, 56(3), e2019WR026962. doi:https://doi.org/10.1029/2019WR026962
+[3]	Guanglai Guo, Yan Zhu, E Chen, Stephen S. Yau. Privacy-preserving collaborative queries in services computing using multisource private data counting[J]. IEEE Transactions on Services Computing, 2024, 17(1): 1-17.（2024年1月）https://doi.org/10.1109/TSC.2023.3331520
 
-Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-climatological change detection methods to model uncertainty and bias. *Advances in Water Resources*, 134, 103430. doi:https://doi.org/10.1016/j.advwatres.2019.103430
+[4]	Hai Lu, Yan Zhu, Cecilia E Chen, Di Ma. Towards efficient key extraction of LBC over ring: fast non-spherical G-lattice sampler and optimized perturbation generation[J]. IEEE Transactions on Information Forensics & Security, 2024, online. https://doi.org/10.1109/TIFS.2024.3376206
 
-Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. doi:https://doi.org/10.1007/s00704-018-2617-z
+[5]	Guanglai Guo, Yan Zhu, Cecilia E Chen, Lejun Zhang, Rongquan Feng, Di Ma. Privacy-Preserving Queries Using Multisource Private Data Counting on Real Numbers in IoT[J]. IEEE Internet of Things Journal, 2024, 7(1): 11353-11367.(2024年4月) https://doi.org/10.1109/JIOT.2023.3329660
 
-## For more information
-More info about me can be found in [CV](https://zejiang-unsw.github.io/cv/).
+
+
+
+
+
 

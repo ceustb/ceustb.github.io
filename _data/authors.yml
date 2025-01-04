@@ -17,11 +17,11 @@ Name2 Name2:
   twitter     : "name2"
   google_plus : "Name"
 
-Ze Jiang:
-  name             : "Ze Jiang"
+Cicilia E Chen:
+  name             : "Cecilia E Chen"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate @UNSW, expert in statistical hydrology"
-  location         : "Sydney, Australia"
+  bio              : " "
+  location         : "北京"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

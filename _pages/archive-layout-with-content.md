@@ -100,12 +100,12 @@ Make any link standout more when applying the `.btn` class.
 ### Address Tag
 
 <address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
+  1 Infinite Loop<br /> Beijing, BJ 100083<br /> China
 </address>
 
-### Anchor Tag (aka. Link)
-
+/* ### Anchor Tag (aka. Link)
 This is an example of a [link](http://github.com "Github").
+*/
 
 ### Abbreviation Tag
 
