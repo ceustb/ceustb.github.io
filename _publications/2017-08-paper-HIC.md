@@ -1,6 +1,7 @@
 #2017
 ---
 title: "Discrete chaotic systems with one-line equilibria and their application to image encryption"
+
 collection: publications
 permalink: /publication/2017-08-paper-HIC
 date: 2017-08
