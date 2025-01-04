@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is Cecilia E Chen's personal homepage. 
 
 ## A short introduction
 本硕就读于数学系，硕博连读在计算机系从事密码学、区块链智能合约研究， 博士后期间在北京科技大学博士后工作站进行信息安全与大数据领域研究。 荣获2022届北京市普通高等学校优秀毕业生。在科研方面，以第一作者/通讯作者发表SCI/EI论文10篇、 参与合作撰写论文多篇；以第二作者编著信息安全专业本科教材《数字认证技术》1部 ，并参与编写智能法律合约专著 1 部；授权专利2项；主持中央高校基本科研业务费1项， 参与国家自然科学基金项目多项、科技部重点研发计划1项。
 
 研究方向：	信息安全、密码学、区块链与智能合约、隐私计算
-
 
 
 
@@ -35,4 +33,4 @@ This is Cecilia E Chen's personal homepage.
 
 
 ## For more information
-More info about Ze Jiang can be found in (http://39.106.77.250:8083/chene/Home)
+More info about Cecilia E Chen can be found at (http://39.106.77.250:8083/chene/Home)
