@@ -1,4 +1,3 @@
-
 ---
 title: "Discrete chaotic systems with one-line equilibria and their application to image encryption"
 collection: publications
